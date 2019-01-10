@@ -1,4 +1,5 @@
-# YSCollection07_18
+# YSCollection07_18: IMG
+Pictures of samples
 ______
 >Copyright (c) 2019 Yuji SODE <yuji.sode@gmail.com>  
 >This software is released under the MIT License.  
