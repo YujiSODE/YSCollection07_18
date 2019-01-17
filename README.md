@@ -8,4 +8,4 @@ This scientific collection was made by Yuji Sode.
 The collection has been collected while his studying at Ehime University (2007-2018).
 
 GitHub: https://github.com/YujiSODE/YSCollection07_18  
-[Collection links](https://github.com/YujiSODE/YSCollection07_18/wiki)
+## [Collection links](https://github.com/YujiSODE/YSCollection07_18/wiki)
