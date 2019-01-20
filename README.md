@@ -1,4 +1,4 @@
-# YSCollection07_18: IMG
+# YSCollection07_18: IMG2
 Pictures of samples
 ______
 >Copyright (c) 2019 Yuji SODE <yuji.sode@gmail.com>  
