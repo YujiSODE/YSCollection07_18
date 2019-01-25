@@ -9,3 +9,4 @@ The collection has been collected while his studying at Ehime University (2007-2
 
 GitHub: https://github.com/YujiSODE/YSCollection07_18  
 ## [Collection links](https://github.com/YujiSODE/YSCollection07_18/wiki)
+## [How to cite sample image](https://github.com/YujiSODE/YSCollection07_18/blob/master/howToCite.md)
