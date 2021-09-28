@@ -10,3 +10,9 @@ The collection has been collected while his studying at Ehime University (2007-2
 GitHub: https://github.com/YujiSODE/YSCollection07_18  
 ## [Collection links](https://github.com/YujiSODE/YSCollection07_18/wiki)
 ## [How to cite sample image](https://github.com/YujiSODE/YSCollection07_18/blob/master/howToCite.md)
+
+## Available releases
+- [IMG4](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_04_v1.0)
+- [IMG3](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_03_v1.0)
+- [IMG2](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_02_v1.0)
+- [IMG](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_01_v2.0)
