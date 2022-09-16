@@ -8,6 +8,9 @@ please cite like as follows:
 
 - `Sode, Y. 2019. <image file name>. YSCollection07_18. https://github.com/YujiSODE/YSCollection07_18`
 - `Sode, Y. 2019. YSCollection07_18. https://github.com/YujiSODE/YSCollection07_18`
+
+or
+- `<image file name> by Sode, Y. licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>`
 ______
 >Copyright (c) 2019 Yuji SODE <yuji.sode@gmail.com>  
 >This software is released under the MIT License.  
