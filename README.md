@@ -16,6 +16,6 @@ GitHub: https://github.com/YujiSODE/YSCollection07_18
 
 ## Available releases
 - [IMG4](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_04_v1.0)
-- [IMG3](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_03_v1.0)
+- [IMG3](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_03_v2.0)
 - [IMG2](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_02_v2.0)
 - [IMG](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_01_v3.0)
