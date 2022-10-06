@@ -14,7 +14,7 @@ The collection has been collected while his studying at Ehime University (2007-2
 GitHub: https://github.com/YujiSODE/YSCollection07_18  
 ## [Collection links](https://github.com/YujiSODE/YSCollection07_18/wiki)
 ___
-`Morphological collection in Paleobiology`  
-Copyright (c) 2022 Yuji Sode  
+[`Morphological collection in Paleobiology`  
+Copyright (c) 2022 Yuji Sode](https://zenn.dev/yujisode/books/paleobio-collection_yscollection07_18)  
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  
