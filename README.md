@@ -1,4 +1,4 @@
-# YSCollection07_18: IMG_Morphological collection in Paleobiology
+# YSCollection07_18: IMG_paleobio-collection_yscollection07_18
 Photographs and diagrams in `Morphological collection in Paleobiology`
 ______
 >Copyright (c) 2019 Yuji SODE <yuji.sode@gmail.com>  
