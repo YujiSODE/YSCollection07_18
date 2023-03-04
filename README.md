@@ -26,6 +26,8 @@ GitHub: https://github.com/YujiSODE/YSCollection07_18
 - [YSCollection07_18-IMG_03_v2.0_1677903820.csv](https://github.com/YujiSODE/YSCollection07_18/blob/master/YSCollection07_18-IMG_03_v2.0_1677903820.csv)
 - [YSCollection07_18-IMG_04_v2.0_1677903923.csv](https://github.com/YujiSODE/YSCollection07_18/blob/master/YSCollection07_18-IMG_04_v2.0_1677903923.csv)
 
+The above lists are generated using [dirCSV.tcl](https://gist.github.com/YujiSODE/ee070936443f2855fc45cb1471bd3e8b) \(Sode, Y. 2023. MIT License\).
+
 ### Morphological collection in Paleobiology
 - https://zenn.dev/yujisode/books/paleobio-collection_yscollection07_18
 
