@@ -20,6 +20,8 @@ GitHub: https://github.com/YujiSODE/YSCollection07_18
 - [IMG2](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_02_v2.0)
 - [IMG](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_01_v3.0)
 
+### Lists of released contents
+
 ### Morphological collection in Paleobiology
 - https://zenn.dev/yujisode/books/paleobio-collection_yscollection07_18
 
