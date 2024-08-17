@@ -32,6 +32,7 @@ The above lists are generated using [dirCSV.tcl](https://gist.github.com/YujiSOD
 - https://zenn.dev/yujisode/books/paleobio-collection_yscollection07_18
 
 #### Photographs and diagrams in `Morphological collection in Paleobiology`
+- [v3.0.1](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_paleobio-collection-Zenn-v3.0.1)
 - [v2.0.0](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_paleobio-collection-Zenn-v2.0.0)
 - [v1.0.0](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_paleobio-collection-Zenn-v1.0.0)
 
