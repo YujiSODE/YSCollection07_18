@@ -22,7 +22,7 @@ GitHub: https://github.com/YujiSODE/YSCollection07_18
 - [IMG](https://github.com/YujiSODE/YSCollection07_18/releases/tag/IMG_01_v3.0)
 
 ### Lists of released contents
-- [](#)
+- [YSCollection07_18-IMG_05_v1.0_1746049303.csv](https://github.com/YujiSODE/YSCollection07_18/blob/master/YSCollection07_18-IMG_05_v1.0_1746049303.csv)
 - [YSCollection07_18-IMG_01_v3.0_1677903340.csv](https://github.com/YujiSODE/YSCollection07_18/blob/master/YSCollection07_18-IMG_01_v3.0_1677903340.csv)
 - [YSCollection07_18-IMG_02_v2.0_1677903500.csv](https://github.com/YujiSODE/YSCollection07_18/blob/master/YSCollection07_18-IMG_02_v2.0_1677903500.csv)
 - [YSCollection07_18-IMG_03_v2.0_1677903820.csv](https://github.com/YujiSODE/YSCollection07_18/blob/master/YSCollection07_18-IMG_03_v2.0_1677903820.csv)
